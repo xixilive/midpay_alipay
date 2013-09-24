@@ -1,5 +1,7 @@
 # Midpay::Alipay
 
+[![Code Climate](https://codeclimate.com/github/xixilive/midpay_alipay.png)](https://codeclimate.com/github/xixilive/midpay_alipay)
+
 Payment strategy for Alipay(支付宝 https://alipay.com) base on Midpay Middleware.
 
 ## Installation
